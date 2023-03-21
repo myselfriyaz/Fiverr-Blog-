@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-style: arial, sans-serif;
+}
+a{
+    color: #1dbf73;
+    text-decoration: none;
+    font-weight: bold;
+}
+h1{
+    font-size: 40px;
+    color: #404145;
+}
+#author{
+    text-align: center;
+    color: #404145;
+}
+p{
+    color: #7a7d85;
+    text-align: justify;
+    line-height: 30px;
+}
+h2{
+    color: #404145;
+}
